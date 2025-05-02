@@ -1,6 +1,5 @@
-pandas==2.2.3
-plotly==5.24.1
-dash==2.18.1
-dash-bootstrap-components==1.6.0
-gunicorn==23.0.0
-requests==2.32.3
+dash
+dash-bootstrap-components
+pandas
+plotly
+gdown
